@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moeharif
-- 👀 I’m interested in IT Stuff
-- 🌱 I’m currently learning Hacktiv8
+- 👀 I’m interested in some IT Stuff ATM
+- 🌱 I’m currently learning @Hacktiv8
 - 💞️ I’m looking to collaborate on Telegram
 - 📫 How to reach me t.me/moeharif
 
