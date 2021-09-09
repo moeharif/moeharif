@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Belajar hal baru, banyak yg butuh di explore.
 - 🎓 &nbsp; Alumni Jurusan Fisika Fakultas Sains dan Teknologi Universitas Islam Negeri Alauddin Makassar.
-- 🌱 &nbsp; Porang for life, lol
+- 🌱 &nbsp; Hidroponik Lover :)
 - ✍️ &nbsp; Mengejar impian hobi menjadi side job yg menyenangkan.
 
 <h3> 🛠 &nbsp;Lagi pengen belajar hal hal ini :</h3>
