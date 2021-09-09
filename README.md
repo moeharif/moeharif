@@ -10,7 +10,6 @@
 <h3> 🛠 &nbsp;Lagi pengen belajar hal hal ini :</h3>
 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -19,13 +18,12 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 <h3> 🤝🏻 &nbsp;Stay in touch with me </h3>
 
 <p align="center">
-<a href="https://www.instagram.com/moeharif/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-moeharif__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/moeharif/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-moeharif-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:moeh.arif.usman@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-moeh.arif.usman@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
