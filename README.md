@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;Tentang saya </h3>
 
 - 🤔 &nbsp; Belajar hal baru, banyak yg butuh di explore.
-- 🎓 &nbsp; Alumni Jurusan Fisika Fakultas Sains dan Teknologi Universitas Islam Negeri Alauddin Makassar.
+- 🎓 &nbsp; Sains Fisika
 - 🌱 &nbsp; Hidroponik Lover :)
 - ✍️ &nbsp; Fotografi, Design, Planting, etc
 
