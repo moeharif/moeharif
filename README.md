@@ -1,4 +1,4 @@
-<h2> Yoo, Nyari apa?</h2>
+<h2> Yoo, Nyari apa gan?</h2>
 
 <h3> 👨🏻‍💻 &nbsp;Tentang saya </h3>
 
